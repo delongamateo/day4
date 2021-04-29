@@ -1,0 +1,45 @@
+nav a {
+    text-decoration: none;
+    color: crimson;
+}
+
+.about blockquote {
+    background-color: #eaeaea;
+}
+
+.users span {
+    font-weight: bold;
+}
+
+.span1 {
+    color: crimson;
+}
+
+.link {
+    font-family: "Lato";
+    text-decoration: none;
+}
+
+.link font {
+    font-family: "PT Serif";
+    text-decoration: none;
+    font-weight: 900;
+}
+
+#cta {
+    color:crimson;
+    font-family: "Lato";
+}
+
+ul li:nth-child(odd) {
+  text-decoration: underline;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
